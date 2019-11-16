@@ -17,9 +17,9 @@
     "body": "^5.1.0",
     "corsify": "^2.1.0",
     "http-hash-router": "^1.1.0",
-    "ix-level-userdb": "^1.0.1",
+    "ix-level-userdb": "nwillems/level-userdb",
     "jsonwebtoken": "^5.4.1",
-    "level": "^1.3.0"
+    "level": "^6.0.0"
   },
   "devDependencies": {
     "bl": "^1.0.0",
